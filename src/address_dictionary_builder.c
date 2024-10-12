@@ -5,7 +5,6 @@
 
 #include "address_expansion_data.c"
 #include "collections.h"
-#include "config.h"
 #include "constants.h"
 #include "gazetteer_data.c"
 

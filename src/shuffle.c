@@ -1,6 +1,5 @@
 #include "shuffle.h"
 
-#include <config.h>
 
 #include "string_utils.h"
 
